@@ -102,10 +102,10 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/<your-github-username>/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
 
@@ -118,48 +118,42 @@ cd first-contributions
 Now create a branch using the `git checkout` command:
 
 ```
-git checkout -b your-new-branch-name
+git checkout -b new-branch-name
 ```
 
 For example:
 
 ```
-git checkout -b add-alonzo-church
+git checkout -b add-<your-github-username>
 ```
 
 (The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
-
-<img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
+Now create `first-contributions/<your-github-username>.md` in your editor, add `## Hi, I'm <first name> <last name>` to the file and then save it.
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add Contributors.md
+git add first-contributions/<your-github-username>.md
 ```
 
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add <your-name> to Contributors list"
+git commit -m "add <your-github-username>"
 ```
-
-replacing `<your-name>` with your name.
 
 ## Push changes to GitHub
 
 Push your changes using the command `git push`:
 
 ```
-git push origin <add-your-branch-name>
+git push origin add-<your-github-username>
 ```
-
-replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
