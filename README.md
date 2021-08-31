@@ -174,11 +174,11 @@ Soon I'll be merging all your changes into the master branch of this project. Yo
 
 ## Where to go from here?
 
-Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
+Congratulations! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
 
-Be sure to join our discord server if you haven't already [Join discord](https://discord.com/invite/WA3h4TRfMe).
+See our [list of projects](https://firstcontributions.github.io/#project-list) to help you continue your journey into open source.
 
-Now let's get you started with contributing to other projects. We've compiled a list of projects with easy issues you can get started on. Check out [this list of projects](https://firstcontributions.github.io/#project-list).
+And be sure to [join our discord server](https://discord.com/invite/WA3h4TRfMe) if you haven't already.
 
 ### [Additional material](additional-material/git_workflow_scenarios/additional-material.md)
 
