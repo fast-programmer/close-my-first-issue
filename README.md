@@ -127,8 +127,6 @@ For example:
 git checkout -b add-<your-github-username>
 ```
 
-(The name of the branch does not need to have the word _add_ in it, but it's a reasonable thing to include because the purpose of this branch is to add your name to a list.)
-
 ## Make necessary changes and commit those changes
 
 Now create `first-contributions/<your-github-username>.md` in your editor, add `## Hi, I'm <first name> <last name>` to the file and then save it.
