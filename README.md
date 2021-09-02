@@ -65,6 +65,8 @@ Now create `first-contributions/<your-github-username>.md` in your editor, add `
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
+<img style="float: right;" src="https://i.imgur.com/78XMI8f.png" alt="check status of working directory" />
+
 Add those changes to the branch you just created using the `git add` command:
 
 ```
@@ -89,13 +91,15 @@ git push origin add-<your-github-username>
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://i.imgur.com/XdpuEWB.jpg" alt="create a pull request" />
 
-Now submit the pull request.
+Now create the pull request.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://i.imgur.com/4rgWAKC.jpg" alt="submit pull request" />
 
-Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Our mentors will then be notified of your pull request and either approve (and merge) your contribution, or request changes.
+
+You will get a notification email in either case.
 
 ## Where to go from here?
 
