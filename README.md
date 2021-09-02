@@ -93,7 +93,7 @@ If you go to your repository on GitHub, you'll see a `Compare & pull request` bu
 
 <img style="float: right;" src="https://i.imgur.com/XdpuEWB.jpg" alt="create a pull request" />
 
-Now submit the pull request.
+Now create the pull request.
 
 <img style="float: right;" src="https://i.imgur.com/4rgWAKC.jpg" alt="submit pull request" />
 
