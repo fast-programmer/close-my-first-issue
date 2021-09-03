@@ -37,6 +37,8 @@ For example:
 git clone https://github.com/<your-github-username>/first-contributions.git
 ```
 
+<!-- example-: git clone https://github.com/sunil/first-contributions.git -->
+
 Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ## Create a branch
@@ -58,6 +60,15 @@ For example:
 ```
 git checkout -b add-<your-github-username>
 ```
+
+this above command will create branch and switched to it.
+
+<!-- git branch branch_name
+this above command only used for creating branch
+
+git checkout branch_name
+and this command will be used for branch switching
+-->
 
 ## Make necessary changes and commit those changes
 
