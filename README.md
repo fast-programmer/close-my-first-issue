@@ -112,10 +112,15 @@ Our mentors will then be notified of your pull request and either approve (and m
 
 You will get a notification email in either case.
 
+## Credits
+
+Special thanks to [firstcontributions](https://github.com/firstcontributions) for inspiring us to build upon their incredible work. We both share a vision of wanting to help beginners to contribute to open source projects, and used their [first-contribution](https://github.com/firstcontributions/first-contributions) repository as a base.
+
+We have not forked their repository or preserved commit history because we wanted to keep things as simple as possible for our community of aspiring contributors. For reference, the original MIT licence can be found in our repository [here](https://github.com/the-fast-tracked-programmer/first-contributions/blob/main/LICENSE).
+
+
 ## Where to go from here?
 
 Congratulations! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
-
-See our [list of projects](https://firstcontributions.github.io/#project-list) to help you continue your journey into open source.
 
 And be sure to [join our discord server](https://discord.com/invite/WA3h4TRfMe) if you haven't already.
