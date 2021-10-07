@@ -2,9 +2,11 @@
 [<img align="right" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/WA3h4TRfMe)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# First Contributions
+# First Issues
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Want to build confidence using GitHub in a team?
+
+Join our discord community and be guided step by step through the process of closing your very first issue!
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -34,17 +36,17 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/<your-github-username>/first-contributions.git
+git clone https://github.com/<your-github-username>/first-issues.git
 ```
 
-Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+Here you're copying the contents of the first-issues repository on GitHub to your computer.
 
 ## Create a branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd first-issues
 ```
 
 Now create a branch using the `git checkout` command:
@@ -61,7 +63,7 @@ git checkout -b add-<your-github-username>
 
 ## Make necessary changes and commit those changes
 
-Now create `first-contributions/<your-github-username>.md` in your editor, add `## Hi, I'm <first name> <last name>` to the file and then save it.
+Now create `first-issues/<your-github-username>.md` in your editor, add `## Hi, I'm <your-github-user>!` to the file and then save it.
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -70,7 +72,7 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add first-contributions/<your-github-username>.md
+git add first-issues/<your-github-username>.md
 ```
 
 Now commit those changes using the `git commit` command:
@@ -105,7 +107,7 @@ You will get a notification email in either case.
 
 Special thanks to [firstcontributions](https://github.com/firstcontributions) for inspiring us to build upon their incredible work. We both share a vision of wanting to help beginners to contribute to open source projects, and used their [first-contribution](https://github.com/firstcontributions/first-contributions) repository as a base.
 
-We have not forked their repository or preserved commit history because we wanted to keep things as simple as possible for our community of aspiring contributors. For reference, the original MIT licence can be found in our repository [here](https://github.com/the-fast-tracked-programmer/first-contributions/blob/main/LICENSE).
+We have not forked their repository or preserved commit history because we wanted to keep things as simple as possible for our community of aspiring contributors. For reference, the original MIT licence can be found in our repository [here](https://github.com/the-fast-tracked-programmer/first-issues/blob/main/LICENSE).
 
 
 ## Where to go from here?
