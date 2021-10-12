@@ -5,8 +5,6 @@
 
 Don't feel confident using GitHub in a team? Practice closing your first issue, step by step 💪.
 
-_Close My First Issue_ will help you get started quickly 😃.
-
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
 ## Step 1. Join our GitHub organisation
