@@ -4,7 +4,7 @@
 
 # Close My First Issue
 
-Want to practice using GitHub in a team, but worry about making a mistake?
+Want to practice using GitHub in a team, but are scared or worried about making a mistake?
 
 Let us guide you through the entire progress step by step, in a safe and supportive environment.
 
@@ -114,6 +114,8 @@ We have not forked their repository or preserved commit history because we wante
 
 ## Where to go from here?
 
-Congratulations! You have just completed the standard _fork -> clone -> branch -> commit -> push -> open pull request_ workflow that is used to power up to 190 million repositories.
+Congratulations!
+
+You have just completed the standard _fork -> clone -> branch -> commit -> push -> open pull request_ workflow that is used to power up to 190 million repositories.
 
 Be sure to [join our discord server](https://discord.com/invite/WA3h4TRfMe) if you haven't already.
