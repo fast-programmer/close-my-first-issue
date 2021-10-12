@@ -2,20 +2,24 @@
 [<img align="right" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/WA3h4TRfMe)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# First Contributions
+# Close My First Issue
 
-This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
+Want to practice using GitHub in a team, but worry about making a mistake?
+
+Let us guide you through the entire progress step by step, in a safe and supportive environment.
+
+## Prerequisites
+
+If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-#### If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
-
-## Fork this repository
+## 1. Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## Clone the repository
+## 2. Clone the forked repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -34,17 +38,17 @@ where "url you just copied" (without the quotation marks) is the url to this rep
 For example:
 
 ```
-git clone https://github.com/<your-github-username>/first-contributions.git
+git clone https://github.com/<your-github-username>/close-my-first-issue.git
 ```
 
-Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+Here you're copying the contents of the close-my-first-issue repository on GitHub to your computer.
 
-## Create a branch
+## 3. Create a local branch
 
 Change to the repository directory on your computer (if you are not already there):
 
 ```
-cd first-contributions
+cd close-my-first-issue
 ```
 
 Now create a branch using the `git checkout` command:
@@ -59,9 +63,9 @@ For example:
 git checkout -b add-<your-github-username>
 ```
 
-## Make necessary changes and commit those changes
+## 4. Add, stage and commit local changes
 
-Now create `first-contributions/<your-github-username>.md` in your editor, add `## Hi, I'm <first name> <last name>` to the file and then save it.
+Now create `profiles/<your-github-username>.md` in your editor, add `## Hi, I'm <your-ghithub-username>` to the file and then save it.
 
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
 
@@ -70,7 +74,7 @@ If you go to the project directory and execute the command `git status`, you'll 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add first-contributions/<your-github-username>.md
+git add close-my-first-issue/<your-github-username>.md
 ```
 
 Now commit those changes using the `git commit` command:
@@ -79,7 +83,7 @@ Now commit those changes using the `git commit` command:
 git commit -m "add <your-github-username>"
 ```
 
-## Push changes to GitHub
+## 5. Push local commits to remote branch
 
 Push your changes using the command `git push`:
 
@@ -87,7 +91,7 @@ Push your changes using the command `git push`:
 git push origin add-<your-github-username>
 ```
 
-## Submit your changes for review
+## 6. Open a pull request
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
@@ -97,9 +101,9 @@ Now create the pull request.
 
 <img style="float: right;" src="https://i.imgur.com/4rgWAKC.jpg" alt="submit pull request" />
 
-Our mentors will then be notified of your pull request and either approve (and merge) your contribution, or request changes.
+Our mentors will then be notified of your pull request and either approve and merge your changes, or request changes.
 
-You will get a notification email in either case.
+You will get a notification in either case.
 
 ## Credits
 
@@ -110,6 +114,6 @@ We have not forked their repository or preserved commit history because we wante
 
 ## Where to go from here?
 
-Congratulations! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll encounter often as a contributor!
+Congratulations! You have just completed the standard _fork -> clone -> branch -> commit -> push -> open pull request_ workflow that is used to power up to 190 million repositories.
 
-And be sure to [join our discord server](https://discord.com/invite/WA3h4TRfMe) if you haven't already.
+Be sure to [join our discord server](https://discord.com/invite/WA3h4TRfMe) if you haven't already.
