@@ -3,7 +3,7 @@
 
 # Close My First Issue
 
-Don't feel confident using GitHub in a team? Practice closing your first issue, step by step 💪.
+Don't feel confident using GitHub in a team yet? Practice closing your first issue, step by step 💪.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
