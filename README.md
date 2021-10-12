@@ -4,9 +4,11 @@
 
 # Close My First Issue
 
-Want to practice using GitHub in a team, but are scared or worried about making a mistake?
+Don't feel confident using GitHub in a team?
 
-Let us guide you through the entire progress step by step, in a safe and supportive environment.
+Scared or worried about making a mistake?
+
+Practice the full workflow step by step, in a safe and supportive environment.
 
 ## Prerequisites
 
