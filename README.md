@@ -4,11 +4,9 @@
 
 # Close My First Issue
 
-Don't feel confident using GitHub in a team? Practice closing your first issue, step by step.
+Don't feel confident using GitHub in a team? Practice closing your first issue, step by step 💪.
 
-## Prerequisites
-
-If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+_Close My First Issue_ will help you get started quickly 😃.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -17,7 +15,7 @@ If you don't have git on your machine, [install it](https://help.github.com/arti
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-## 2. Clone the forked repository
+## 2. Clone your forked repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -41,7 +39,9 @@ git clone https://github.com/<your-github-username>/close-my-first-issue.git
 
 Here you're copying the contents of the close-my-first-issue repository on GitHub to your computer.
 
-## 3. Create a local branch
+PS. If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
+
+## 3. Create and checkout a local branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -63,19 +63,17 @@ git checkout -b add-<your-github-username>
 
 ## 4. Add, stage and commit local changes
 
-Now create `profiles/<your-github-username>.md` in your editor, add `## Hi, I'm <your-ghithub-username>` to the file and then save it.
+Now create `profiles/<your-github-username>.md` in your editor, add `## Hi, I'm <your-github-username>` to the file and then save it.
 
-If you go to the project directory and execute the command `git status`, you'll see there are changes.
+Upon executing the command `git status`, you'll see there are changes.
 
-<img style="float: right;" src="https://i.imgur.com/78XMI8f.png" alt="check status of working directory" />
-
-Add those changes to the branch you just created using the `git add` command:
+Stage those changes with the `git add` command:
 
 ```
 git add close-my-first-issue/<your-github-username>.md
 ```
 
-Now commit those changes using the `git commit` command:
+And commit those changes using the `git commit` command:
 
 ```
 git commit -m "add <your-github-username>"
