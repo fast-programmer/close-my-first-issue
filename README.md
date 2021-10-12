@@ -1,5 +1,4 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
-[<img align="right" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/WA3h4TRfMe)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # Close My First Issue
@@ -10,13 +9,25 @@ _Close My First Issue_ will help you get started quickly 😃.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-## 1. Fork this repository
+## Step 1. Join our GitHub organisation
+
+[<img align="left" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/jnMj34qPAg)
+<br/><br/>
+
+`/join-github-org <your-github-username>`
+
+Once you've accepted the invite:
+
+1. you will be [assigned your very first issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues?q=is%3Aopen+assignee%3A%40me)
+2. you will be able to ask the [#community](https://discord.com/channels/815407176734212126/894788853045530624) for help if you get stuck
+
+## Step 2. Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 
 This will create a copy of this repository in your account.
 
-## 2. Clone your forked repository
+## Step 3. Clone your forked repository
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -44,7 +55,7 @@ Here you're copying the contents of the close-my-first-issue repository on GitHu
 
 PS. If you don't have git on your machine, [install it](https://help.github.com/articles/set-up-git/).
 
-## 3. Create and checkout a local branch
+## Step 4. Create and checkout a local branch
 
 Change to the repository directory on your computer (if you are not already there):
 
@@ -64,7 +75,7 @@ For example:
 git checkout -b add-<your-github-username>
 ```
 
-## 4. Add, stage and commit local changes
+## Step 5. Add, stage and commit local changes
 
 Now create `profiles/<your-github-username>.md` in your editor, add `## Hi, I'm <your-github-username>` to the file and then save it.
 
@@ -82,7 +93,7 @@ And commit those changes using the `git commit` command:
 git commit -m "add <your-github-username>"
 ```
 
-## 5. Push local commits to remote branch
+## Step 6. Push local commits to remote branch
 
 Push your changes using the command `git push`:
 
@@ -90,7 +101,7 @@ Push your changes using the command `git push`:
 git push origin add-<your-github-username>
 ```
 
-## 6. Open a pull request
+## Step 7. Open a pull request
 
 <img align="right" width="200" src="https://i.imgur.com/XdpuEWB.jpg" alt="create a pull request" />
 
@@ -116,6 +127,8 @@ We have not forked their repository or preserved commit history because we wante
 
 Congratulations!
 
-You've just completed the standard _fork -> clone -> branch -> commit -> push -> open pull request_ workflow that is used to power up to 190 million repositories.
+You've just completed the standard _fork -> clone -> branch -> commit -> push -> open pull request_ workflow that is used to power up to 190 million GitHub repositories.
 
-Be sure to [join our discord server](https://discord.gg/q8EWqewUjg) and introduce yourself to our super friendly [#community](https://discord.com/channels/815407176734212126/894788853045530624) if you haven't already.
+If you're wondering what to do next, be sure to introduce yourself and share your programming journey in our super friendly [#community](https://discord.com/channels/815407176734212126/894788853045530624).
+
+Experienced mentors check this channel regularly and routinely offer guidance based on what you plan to achieve.
