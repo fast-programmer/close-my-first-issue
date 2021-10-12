@@ -6,9 +6,9 @@
 
 Don't feel confident using GitHub in a team?
 
-Scared or worried about making a mistake?
+Practice closing your first issue, step by step.
 
-Practice the full workflow step by step, in a safe and supportive environment.
+Safe and supportive environnment where you can make mistakes and grow.
 
 ## Prerequisites
 
