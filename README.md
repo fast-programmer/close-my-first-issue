@@ -16,10 +16,10 @@ _Close My First Issue_ will help you get started quickly 😃.
 
 `/join-github-org <your-github-username>`
 
-Once you've accepted the invite:
+Note: Once you've accepted the invite (check your email):
 
 1. you will be [assigned your very first issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues?q=is%3Aopen+assignee%3A%40me)
-2. you will be able to ask the [#community](https://discord.com/channels/815407176734212126/894788853045530624) for help if you get stuck
+2. you will be able to ask the [#community](https://discord.com/channels/815407176734212126/894788853045530624) for help if you get lost, stuck or overwhelmed at any point
 
 ## Step 2. Fork this repository
 
