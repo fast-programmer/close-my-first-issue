@@ -90,13 +90,13 @@ git push origin add-<your-github-username>
 
 ## 6. Open a pull request
 
-<img align="right" width="300" src="https://i.imgur.com/XdpuEWB.jpg" alt="create a pull request" />
+<img align="right" width="200" src="https://i.imgur.com/XdpuEWB.jpg" alt="create a pull request" />
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button.
 
 Click on that button to start creating a pull request.
 
-<img align="right" width="300" src="https://i.imgur.com/4rgWAKC.jpg" alt="submit pull request" />
+<img align="right" width="200" src="https://i.imgur.com/4rgWAKC.jpg" alt="submit pull request" />
 <br/>
 
 Our mentors will then be notified of your pull request and either approve and merge your updates, or request changes.
