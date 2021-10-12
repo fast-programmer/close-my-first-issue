@@ -89,15 +89,16 @@ git push origin add-<your-github-username>
 
 ## 6. Open a pull request
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+<img align="right" width="300" src="https://i.imgur.com/XdpuEWB.jpg" alt="create a pull request" />
 
-<img style="float: right;" src="https://i.imgur.com/XdpuEWB.jpg" alt="create a pull request" />
+If you go to your repository on GitHub, you'll see a `Compare & pull request` button.
 
-Now create the pull request.
+Click on that button to start creating a pull request.
 
-<img style="float: right;" src="https://i.imgur.com/4rgWAKC.jpg" alt="submit pull request" />
+<img align="right" width="300" src="https://i.imgur.com/4rgWAKC.jpg" alt="submit pull request" />
+<br/>
 
-Our mentors will then be notified of your pull request and either approve and merge your changes, or request changes.
+Our mentors will then be notified of your pull request and either approve and merge your updates, or request changes.
 
 You will get a notification in either case.
 
@@ -112,6 +113,6 @@ We have not forked their repository or preserved commit history because we wante
 
 Congratulations!
 
-You have just completed the standard _fork -> clone -> branch -> commit -> push -> open pull request_ workflow that is used to power up to 190 million repositories.
+You've just completed the standard _fork -> clone -> branch -> commit -> push -> open pull request_ workflow that is used to power up to 190 million repositories.
 
-Be sure to [join our discord server](https://discord.com/invite/WA3h4TRfMe) if you haven't already.
+Be sure to [join our discord server](https://discord.gg/q8EWqewUjg) and introduce yourself to our super friendly [#community](https://discord.com/channels/815407176734212126/894788853045530624) if you haven't already.
