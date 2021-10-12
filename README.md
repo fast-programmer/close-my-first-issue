@@ -20,7 +20,9 @@ This will create a copy of this repository in your account.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
-Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+Now clone the forked repository to your machine.
+
+Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
 Open a terminal and run the following git command:
 
@@ -71,7 +73,7 @@ Upon executing the command `git status`, you'll see there are changes.
 Stage those changes with the `git add` command:
 
 ```
-git add close-my-first-issue/<your-github-username>.md
+git add profiles/<your-github-username>.md
 ```
 
 And commit those changes using the `git commit` command:
