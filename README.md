@@ -4,11 +4,7 @@
 
 # Close My First Issue
 
-Don't feel confident using GitHub in a team?
-
-Practice closing your first issue, step by step.
-
-Safe and supportive environnment where you can make mistakes and grow.
+Don't feel confident using GitHub in a team? Practice closing your first issue, step by step.
 
 ## Prerequisites
 
