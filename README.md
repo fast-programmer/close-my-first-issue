@@ -3,7 +3,7 @@
 
 # Close My First Issue
 
-Don't feel confident using GitHub in a team yet? Practice closing your first issue, step by step 💪.
+Don't feel confident using GitHub in a team? Practice the workflow by closing your first issue, step by step 💪.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -17,7 +17,7 @@ Don't feel confident using GitHub in a team yet? Practice closing your first iss
 Note: Once you've accepted the invite (check your email):
 
 1. you will be [assigned your very first issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues?q=is%3Aopen+assignee%3A%40me)
-2. you will be able to ask the [#community](https://discord.com/channels/815407176734212126/894788853045530624) for help if you get lost, stuck or overwhelmed at any point
+2. you can reach out to the [#community](https://discord.com/channels/815407176734212126/894788853045530624) for help whenever you get lost, stuck or overwhelmed
 
 ## Step 2. Fork this repository
 
