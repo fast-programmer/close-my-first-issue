@@ -7,12 +7,10 @@ Don't feel confident using GitHub in a team? Practice the workflow by closing yo
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-## Step 1. Join our GitHub organisation
+## Step 1. Join our GitHub organisation via discord
 
 [<img align="left" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/jnMj34qPAg)
 <br/><br/>
-
-`/join-github-org your-github-username`
 
 Note: Once you've accepted the invite (check your email):
 
