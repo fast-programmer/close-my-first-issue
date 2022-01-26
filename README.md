@@ -12,7 +12,7 @@ Don't feel confident using GitHub in a team? Practice the workflow by closing yo
 [<img align="left" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/jnMj34qPAg)
 <br/><br/>
 
-`/join-github-org YOURGITUBHUSERNAME`
+`/join-github-org YOUR-GITHUB-USERNAME`
 
 Note: Once you've accepted the invite (check your email):
 
