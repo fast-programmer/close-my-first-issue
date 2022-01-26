@@ -3,7 +3,9 @@
 
 # Close My First Issue
 
-Don't feel confident using GitHub in a team (yet)? Practice the workflow by closing your first issue, step by step 💪.
+Don't feel confident using GitHub in a team (yet)?
+
+Practice the workflow by closing your first issue, step by step 💪.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
@@ -25,7 +27,7 @@ After you've accepted the invite:
 
 Fork this repository by clicking on the fork button on the top of this page.
 
-This will create a copy of this repository in your account.
+This will create a copy of this repository in your GitHub account, that you can publish your local changes to.
 
 ## Step 3. Clone your forked repository
 
