@@ -19,7 +19,7 @@ After typing this command in [Close My First Issue - #get-started](https://disco
 After you've accepted the invite:
 
 1. you will be [assigned your very first issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues?q=is%3Aopen+assignee%3A%40me)
-2. you can reach out to the [#community](https://discord.com/channels/815407176734212126/894788853045530624) for help whenever you get lost, stuck or overwhelmed
+2. you can reach out to our awesome [#community](https://discord.com/channels/815407176734212126/894788853045530624) for help whenever you get lost, stuck or overwhelmed
 
 ## Step 2. Fork this repository
 
