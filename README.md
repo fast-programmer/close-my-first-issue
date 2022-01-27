@@ -9,18 +9,16 @@ Practice the open source contribution workflow by closing your very first issue,
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-## Step 1. Join our GitHub organisation
+## Step 1. Join our GitHub organization (via discord server command)
 
-[<img align="left" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/jnMj34qPAg)
+1. [<img align="left" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/jnMj34qPAg)
 <br/><br/>
-
-`/join-github-org YOUR-GITHUB-USERNAME`
-
-After typing this command in [Close My First Issue - #get-started](https://discord.com/channels/815407176734212126/894727968914563112), GitHub will send you an invitation to join our organisation via email (so be sure to check your inbox).
+2. Enter `/join-github-org YOUR-GITHUB-USERNAME` in the #get-started message field
+3. Accept the invite GitHub emails you to join *The Fast Tracked Programmer* organization
 
 After you've accepted the invite:
 
-1. you will be [assigned your very first issue](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues?q=is%3Aopen+assignee%3A%40me)
+1. we will assign you your very first issue, which will appear under [open issues assigned to you](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues?q=is%3Aopen+assignee%3A%40me)
 2. you can reach out to our awesome [#community](https://discord.com/channels/815407176734212126/894788853045530624) for help whenever you get lost, stuck or overwhelmed
 
 ## Step 2. Fork this repository
