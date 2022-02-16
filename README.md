@@ -19,7 +19,7 @@ Practice the open source contribution workflow by closing your very first issue,
 After you've accepted the invite, a mentor will
 
 1. open and assign you a practice issue to close in this project, which will appear under [open issues assigned to you](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues?q=is%3Aopen+assignee%3A%40me)
-2. offer guidance and support in our awesome discord [#community](https://discord.com/channels/815407176734212126/894788853045530624). See the [trello board](https://trello.com/b/WFrU7822/close-my-first-issue) for details.
+2. reach out to offer guidance and support in our awesome discord [#community](https://discord.com/channels/815407176734212126/894788853045530624). See the [trello board](https://trello.com/b/WFrU7822/close-my-first-issue) for details.
 
 
 ## Step 2. Fork this repository
