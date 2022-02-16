@@ -16,11 +16,11 @@ Practice the open source contribution workflow by closing your very first issue,
 2. Enter `/join-github-org YOUR-GITHUB-USERNAME` in the #get-started message field
 3. Accept the invite GitHub emails you to join *The Fast Tracked Programmer* organization
 
-After you've accepted the invite:
+After you've accepted the invite, a mentor will
 
-1. we will assign you your very first issue, which will appear under [open issues assigned to you](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues?q=is%3Aopen+assignee%3A%40me)
-2. a mentor will be assigned to guide and support you via our [trello board](https://trello.com/b/WFrU7822/close-my-first-issue)
-2. you can reach out to your mentor and our awesome [#community](https://discord.com/channels/815407176734212126/894788853045530624) for help if you get lost, stuck or overwhelmed
+1. open and assign you a practice issue to close in this project, which will appear under [open issues assigned to you](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues?q=is%3Aopen+assignee%3A%40me)
+2. offer guidance and support in our awesome discord [#community](https://discord.com/channels/815407176734212126/894788853045530624). See the [trello board](https://trello.com/b/WFrU7822/close-my-first-issue) for details.
+
 
 ## Step 2. Fork this repository
 
