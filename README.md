@@ -9,7 +9,7 @@ Practice the open source contribution workflow by closing your very first issue,
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-## Step 1. Join our GitHub organization (via discord server command)
+## Step 1. Join our GitHub organization so we can assign you an issue
 
 1. [<img align="left" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/jnMj34qPAg)
 <br/><br/>
