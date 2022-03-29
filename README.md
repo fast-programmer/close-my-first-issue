@@ -13,7 +13,7 @@ Practice the open source contribution workflow by closing your very first issue,
 
 1. [<img align="left" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/jnMj34qPAg)
 <br/><br/>
-2. Enter `/join-github-org YOUR-GITHUB-USERNAME` in the #get-started message field
+2. Enter `/join-github-org YOUR-EMAIL-ADDRESS YOUR-GITHUB-USERNAME` in the #get-started message field
 3. Accept the invite GitHub emails you to join *The Fast Tracked Programmer* organization
 
 After you've accepted the invite, a mentor will
