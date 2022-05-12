@@ -3,9 +3,9 @@
 
 # Close My First Issue
 
-Don't feel confident using GitHub in a team (yet)?
+Want to feel confident using GitHub in a team?
 
-Practice the open source contribution workflow by closing your very first issue, step by step 💪.
+Practice the workflow, step by step with community support!
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
