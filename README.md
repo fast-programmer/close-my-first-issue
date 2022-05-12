@@ -3,7 +3,7 @@
 
 # Close My First Issue
 
-Want to feel confident using GitHub in a team?
+Don't feel confident using GitHub in a team environment?
 
 Practice the workflow, step by step with community support!
 
