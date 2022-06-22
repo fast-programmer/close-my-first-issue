@@ -11,15 +11,10 @@ Practice the workflow, step by step with community support!
 
 ## Step 1. Get assigned a practice issue
 
-1. [<img align="left" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/jnMj34qPAg)
-<br/><br/>
-2. Enter `/join-github-org YOUR-EMAIL-ADDRESS YOUR-GITHUB-USERNAME` in the #get-started message field
-3. Accept the invite GitHub emails you to join *The Fast Tracked Programmer* organization
+1. Submit the [Request New Issue Form](https://bit.ly/39KNYbO)
+2. Accept the invite GitHub emails you to join our *The Fast Tracked Programmer* organization
 
-After you've accepted the invite, a mentor will
-
-1. open and assign you a practice issue to close in this project, which will appear under [open issues assigned to you](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues?q=is%3Aopen+assignee%3A%40me)
-2. reach out to offer guidance and support in our awesome discord [#community](https://discord.com/channels/815407176734212126/894788853045530624). See the [trello board](https://trello.com/b/WFrU7822/close-my-first-issue) for details.
+After you've accepted the invite, a mentor will open and assign you a practice issue to close in this project, which will appear under [open issues assigned to you](https://github.com/the-fast-tracked-programmer/close-my-first-issue/issues?q=is%3Aopen+assignee%3A%40me)
 
 
 ## Step 2. Fork this repository
@@ -130,6 +125,6 @@ Congratulations!
 
 You've just completed the standard _fork -> clone -> branch -> commit -> push -> open pull request_ workflow that is used to power up to 190 million GitHub repositories.
 
-If you're wondering what to do next, be sure to introduce yourself and share your programming journey in our super friendly [#community](https://discord.com/channels/815407176734212126/894788853045530624).
+If you're wondering what to do next, come
 
-Experienced mentors check this channel regularly and routinely offer guidance based on what you plan to achieve.
+[<img align="left" width="150" src="https://i.imgur.com/0Cdusgy.png">](https://discord.com/invite/jnMj34qPAg)
